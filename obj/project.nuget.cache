@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MD7ycMjwWePl0WOnwNvMPyNGGKXOyAEcfvuCZQu1w0MEBbEBWLqXUvxYncLeBM323ALnybsuzEn19ew5g9wl1A==",
+  "success": true,
+  "projectFilePath": "/run/media/ebaranowski/f0ebf9b3-921e-436f-b4c9-d50b55467a5b/Documentos/Dev/projeto/projeto.csproj",
+  "expectedPackageFiles": [
+    "/home/ebaranowski/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
